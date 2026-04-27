@@ -1,6 +1,6 @@
 ---
 title: PakePlus
-titleTemplate: 网站秒变桌面应用和手机应用 | 使用指南
+titleTemplate: 网站变桌面应用和手机应用 | 使用教程
 layout: doc
 ---
 

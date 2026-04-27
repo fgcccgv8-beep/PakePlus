@@ -1,3 +1,9 @@
+---
+title: PakePlus
+titleTemplate: 网站变手机应用 | 使用教程
+layout: doc
+---
+
 # APP 配置
 
 手机 APP 暂时只支持 Android 和 iOS 系统，并且支持 iOS 免签文件安装，后面可能会迭代开发支持更多系统。
