@@ -182,7 +182,7 @@ const updateInitRs = (isHtml, startMethod, winState, winConfig) => {
     winConfig.visible = false
     if (isHtml) {
         winConfig.url = 'index.html'
-    } else if (startMethod === 'oncePwd') {
+    } else if (startMethod === 'password') {
         winConfig.url = 'index.html'
     } else if (startMethod === 'oncePwd') {
         winConfig.url = 'index.html'
